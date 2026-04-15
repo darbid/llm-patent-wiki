@@ -1,0 +1,15 @@
+{
+  "showFrontmatter": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "_attachments"
+}

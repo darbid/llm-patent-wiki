@@ -1,0 +1,54 @@
+/* Patent Wiki — Folder Colors */
+.nav-folder-title[data-path^="wiki/sources"]          { color: #ce9178; }  /* orange */
+.nav-folder-title[data-path^="wiki/claims"]            { color: #d16969; }  /* red */
+.nav-folder-title[data-path^="wiki/embodiments"]       { color: #c586c0; }  /* purple */
+.nav-folder-title[data-path^="wiki/figures"]            { color: #4fc1ff; }  /* blue */
+.nav-folder-title[data-path^="wiki/effects"]            { color: #6a9955; }  /* green */
+.nav-folder-title[data-path^="wiki/use-cases"]          { color: #dcdcaa; }  /* yellow */
+.nav-folder-title[data-path^="wiki/prior-art-deltas"]   { color: #ce9178; }  /* orange */
+.nav-folder-title[data-path^="wiki/fallbacks"]          { color: #569cd6; }  /* steel blue */
+.nav-folder-title[data-path^="wiki/risks"]              { color: #f44747; }  /* bright red */
+.nav-folder-title[data-path^="wiki/terms"]              { color: #9cdcfe; }  /* light blue */
+.nav-folder-title[data-path^="wiki/parameters"]         { color: #b5cea8; }  /* light green */
+.nav-folder-title[data-path^="wiki/evidence"]           { color: #dcdcaa; }  /* yellow */
+.nav-folder-title[data-path^="wiki/comparisons"]        { color: #c586c0; }  /* purple */
+.nav-folder-title[data-path^="wiki/questions"]          { color: #569cd6; }  /* blue */
+.nav-folder-title[data-path^="wiki/meta"]               { color: #808080; }  /* gray */
+.nav-folder-title[data-path=".raw"]                     { color: #808080; opacity: 0.6; }
+
+/* Cross-Patent Ontology Folders */
+.nav-folder-title[data-path^="wiki/entities"]           { color: #FFD700; }  /* gold — real-world actors */
+.nav-folder-title[data-path^="wiki/domains"]            { color: #30A0FF; }  /* cyan-blue — technology domains */
+.nav-folder-title[data-path^="wiki/ipc-clusters"]       { color: #66BB58; }  /* muted green — IPC classification nodes */
+
+/* Statement Classification Callouts */
+.callout[data-callout='disclosed'] {
+  --callout-color: 106, 153, 85;
+  --callout-icon: lucide-check-circle;
+}
+.callout[data-callout='synthesis'] {
+  --callout-color: 86, 156, 214;
+  --callout-icon: lucide-puzzle;
+}
+.callout[data-callout='inference'] {
+  --callout-color: 220, 220, 170;
+  --callout-icon: lucide-help-circle;
+}
+
+/* Standard Wiki Callouts */
+.callout[data-callout='contradiction'] {
+  --callout-color: 206, 145, 120;
+  --callout-icon: lucide-alert-triangle;
+}
+.callout[data-callout='gap'] {
+  --callout-color: 220, 220, 170;
+  --callout-icon: lucide-circle-dashed;
+}
+.callout[data-callout='key-insight'] {
+  --callout-color: 86, 156, 214;
+  --callout-icon: lucide-lightbulb;
+}
+.callout[data-callout='stale'] {
+  --callout-color: 128, 128, 128;
+  --callout-icon: lucide-clock;
+}

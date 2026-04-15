@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "path:wiki/ -path:skills/ -path:agents/ -path:commands/ -path:hooks/ -path:_templates/ -file:index -file:log -file:hot -file:overview -path:wiki/meta/",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:wiki/claims/",
+      "color": {
+        "a": 1,
+        "rgb": 16217742
+      }
+    },
+    {
+      "query": "path:wiki/sources/",
+      "color": {
+        "a": 1,
+        "rgb": 11860472
+      }
+    },
+    {
+      "query": "path:wiki/embodiments/",
+      "color": {
+        "a": 1,
+        "rgb": 12294903
+      }
+    },
+    {
+      "query": "path:wiki/figures/",
+      "color": {
+        "a": 1,
+        "rgb": 8037111
+      }
+    },
+    {
+      "query": "path:wiki/effects/",
+      "color": {
+        "a": 1,
+        "rgb": 7592650
+      }
+    },
+    {
+      "query": "path:wiki/use-cases/",
+      "color": {
+        "a": 1,
+        "rgb": 14724968
+      }
+    },
+    {
+      "query": "path:wiki/risks/",
+      "color": {
+        "a": 1,
+        "rgb": 16752228
+      }
+    },
+    {
+      "query": "path:wiki/fallbacks/",
+      "color": {
+        "a": 1,
+        "rgb": 10407530
+      }
+    },
+    {
+      "query": "path:wiki/prior-art-deltas/",
+      "color": {
+        "a": 1,
+        "rgb": 16711804
+      }
+    },
+    {
+      "query": "path:wiki/terms/",
+      "color": {
+        "a": 1,
+        "rgb": 2802654
+      }
+    },
+    {
+      "query": "path:wiki/parameters/",
+      "color": {
+        "a": 1,
+        "rgb": 4302517
+      }
+    },
+    {
+      "query": "path:wiki/evidence/",
+      "color": {
+        "a": 1,
+        "rgb": 13617602
+      }
+    },
+    {
+      "query": "path:wiki/comparisons/",
+      "color": {
+        "a": 1,
+        "rgb": 12634869
+      }
+    },
+    {
+      "query": "path:wiki/questions/",
+      "color": {
+        "a": 1,
+        "rgb": 11121110
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9999999999999958,
+  "close": false
+}

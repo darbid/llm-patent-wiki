@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if any tooling is added later)
+node_modules/
+
+# Patent source documents — local only, not for public repos
+.raw/*.md
+.raw/.manifest.json
+
+# Wiki content — local only, not for public repos
+# Ignore markdown files at all depths; .gitkeep placeholders are kept
+wiki/**/*.md
+wiki/**/*.json

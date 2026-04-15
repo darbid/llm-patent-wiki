@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "vault-colors"
+  ],
+  "theme": "obsidian"
+}

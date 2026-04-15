@@ -1,0 +1,22 @@
+{
+  "name": "patent-wiki",
+  "version": "1.0.0",
+  "description": "Patent analysis wiki powered by Claude + Obsidian. Two-pass ingestion extracts claims, embodiments, figures, effects, and cross-references into a structured, typed knowledge graph. Based on Andrej Karpathy's LLM Wiki pattern, specialized for patent prosecution and analysis.",
+  "author": {
+    "name": "patent-wiki"
+  },
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "patent",
+    "patent-analysis",
+    "knowledge-graph",
+    "claims",
+    "cross-reference",
+    "wiki",
+    "llm-wiki",
+    "prosecution",
+    "prior-art",
+    "intellectual-property"
+  ]
+}
